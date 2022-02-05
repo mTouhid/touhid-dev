@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkTouhidul_Islam=self.webpackChunkTouhidul_Islam||[]).push([[287],{287:function(e,t,l){l.r(t);l(294);var s=l(944);const i={name:"agvie1",styles:"h1{font-size:5rem;font-weight:600;text-align:center;}"};t.default=()=>(0,s.tZ)("div",{css:[i,"",""],children:(0,s.tZ)("h1",{className:"title",children:"Hello there!"})})}}]);
