@@ -1,19 +1,19 @@
 {
-  "name": "react-spa-template",
+  "name": "Touhidul Islam",
   "version": "0.1.0",
   "description": "React Single Page App template without CRA",
   "main": "src/index.js",
-  "hompage": "https://ofnullable.github.io/react-spa-template",
-  "repository": "https://github.com/ofnullable/react-spa-template",
-  "author": "ofnullable <ofnullable@gmail.com>",
+  "hompage": "https://mTouhid.github.io/touhid-dev",
+  "repository": "https://github.com/mTouhid/touhid-dev",
+  "author": "mTouhid <tislam@live.co.uk>",
   "license": "MIT",
   "engines": {
     "node": ">=10",
     "npm": ">=6"
   },
   "bugs": {
-    "url": "http://github.com/ofnullable/react-spa-template/issues",
-    "email": "ofnullable@gmail.com"
+    "url": "https://github.com/mTouhid/touhid-dev/issues",
+    "email": "tislam@live.co.uk"
   },
   "scripts": {
     "start": "NODE_ENV=development webpack serve --progress",
