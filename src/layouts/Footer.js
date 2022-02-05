@@ -24,7 +24,7 @@ const Footer = () => {
       <nav>
         <div>{new Date().getFullYear()} &copy; Touhid</div>
         <div>
-          <a href="https://github.com/ofnullable/react-spa-template" rel="noopener noreferrer" target="_blank">
+          <a href="https://github.com/mTouhid/touhid-dev" rel="noopener noreferrer" target="_blank">
             <GithubIcon className="github" />
           </a>
         </div>
