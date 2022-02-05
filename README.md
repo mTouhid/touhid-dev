@@ -1,30 +1,23 @@
-<h1 align="center">🎉 React SPA Template 🎉</h1>
+[![pages-build-deployment](https://github.com/mTouhid/touhid-dev/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/mTouhid/touhid-dev/actions/workflows/pages/pages-build-deployment)
 
-<p align="center">  
-  <img src="https://img.shields.io/github/license/ofnullable/react-spa-template" />
-  <a href="https://github.com/ofnullable/react-spa-template/issues">
-    <img src="https://img.shields.io/github/issues/ofnullable/react-spa-template" />
-  </a>
-</p>
+# :tada: Site for Touhid-Dev :tada:  
 
-## An easy-to-use react template
+![License badge](https://img.shields.io/github/license/mTouhid/touhid-dev)
+![Issues count badge](https://img.shields.io/github/issues/mTouhid/touhid-dev)  
+
+## An easy-to-use react template  
 
 - React Single-Page-Application template without create-react-app
 - Configured with Webpack, Babel, ESLint, Sass, PostCSS and emotion
-- If you need anything else, please contribute or leave an issue!
-
-## Live demo
-
-[https://ofnullable.github.io/react-spa-template](https://ofnullable.github.io/react-spa-template)
 
 ## Installation
 
 ```shell
 # clone this repository
-$ git clone https://github.com/ofnullable/react-spa-template
+$ git clone https://github.com/mTouhid/touhid-dev
 
 # go into template directory
-$ cd react-spa-template
+$ cd touhid-dev
 
 # install dependencies
 $ npm install
