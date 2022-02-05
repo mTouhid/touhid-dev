@@ -2,8 +2,8 @@
 
 # :tada: Site for Touhid-Dev :tada:  
 
-![License badge](https://img.shields.io/github/license/mTouhid/touhid-dev)
-![Issues count badge](https://img.shields.io/github/issues/mTouhid/touhid-dev)  
+![License badge](https://img.shields.io/github/license/mTouhid/touhid-dev?style=for-the-badge)
+![Issues count badge](https://img.shields.io/github/issues/mTouhid/touhid-dev?style=for-the-badge)  
 
 ## An easy-to-use react template  
 
